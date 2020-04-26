@@ -43,11 +43,23 @@ img {
     margin-right: auto;
 }
 
-#doglinks {
-    display: flex;
+#dog_links {
+    display: grid;
+    margin-top: 10px;
+    padding: 10px;
+    grid-row-gap: 10px;
+    grid-template-columns: 300px;
+}
+
+.link_item {
+    background-color: none;
 }
 
 .linked_page_headings {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 32px;
+}
+
+.col-lg-3 {
+    background-color: blue;
 }
