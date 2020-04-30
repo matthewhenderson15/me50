@@ -9,11 +9,14 @@ div span {
 div a {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; }
 
-.links {
+.links, .links-extra {
   display: grid;
   margin-top: 10px;
   padding: 10px;
   grid-row-gap: 10px;
   grid-template-columns: 300px; }
+
+.links-extra {
+  background-color: gray; }
 
 /*# sourceMappingURL=styles1.css.map */
