@@ -7,3 +7,21 @@ ul {
 span {
     color: $color;
 }
+
+div {
+    span {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    a {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+}
+
+.links {
+    display: grid;
+    margin-top: 10px;
+    padding: 10px;
+    grid-row-gap: 10px;
+    grid-template-columns: 300px;
+}

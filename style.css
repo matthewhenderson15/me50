@@ -43,7 +43,7 @@ img {
     margin-right: auto;
 }
 
-#dog_links {
+.links {
     display: grid;
     margin-top: 10px;
     padding: 10px;
@@ -55,7 +55,7 @@ img {
     background-color: none;
 }
 
-.linked_page_headings {
+#dog_page_heading {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 32px;
 }
