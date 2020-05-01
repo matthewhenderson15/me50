@@ -1,3 +1,2 @@
 # Project 0
-
-Web Programming with Python and JavaScript
+This project consists of four HTML pages of things I like. The first page is a homepage, with a table linking to the other pages and some descriptive text. The second page has a picture of a Havanese, which is the breed of dog that I have. This contains a footer element linking to the other pages. The third page talks about styles of music that I like. This uses Bootstrap as well as some custom CSS styling. This also has a footer element linking to the other pages. The final HTML page describes my martial arts experience and some books and movies that I like. This is styled using a Sass stylesheet with inheritance and nesting.
